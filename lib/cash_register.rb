@@ -23,6 +23,6 @@ end
 end
 
 def items
-  @items << title
+  @items
 end
 end
