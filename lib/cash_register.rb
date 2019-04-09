@@ -13,7 +13,7 @@ end
 
 def apply_discount
 @total = @total - @discount * 10
-total
+@total
 
 end 
 end
